@@ -14,3 +14,7 @@ cd nodejs-intro
 ## How to run scripts
 
 Open a terminal and move into this directory.
+
+Use the `node` command to run any of the scripts in the folder.
+
+Example: `node ./example1.js`
