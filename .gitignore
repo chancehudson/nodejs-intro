@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+*.swp
+*.tmp
+*.txt
+car-info.json
