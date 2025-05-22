@@ -7,7 +7,7 @@ This is an example repo showing how nodejs can be used.
 Run this command to download this repo. This will create a new folder in your working directory.
 
 ```
-git clone https://github.com/JChanceHud/nodejs-intro.git
+git clone https://github.com/chancehudson/nodejs-intro.git
 cd nodejs-intro
 ```
 
@@ -17,4 +17,4 @@ Open a terminal and move into this directory.
 
 Use the `node` command to run any of the scripts in the folder.
 
-Example: `node ./example1.js`
+Example: `node ./js/example1.mjs`
