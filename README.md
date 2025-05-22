@@ -17,4 +17,4 @@ Open a terminal and move into this directory.
 
 Use the `node` command to run any of the scripts in the folder.
 
-Example: `node ./js/example1.mjs`
+Example: `node ./js_simple/example1.mjs`
