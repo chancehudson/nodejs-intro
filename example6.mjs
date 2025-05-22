@@ -1,6 +1,6 @@
 // Other packages and files can be included using the require function
 // The fs package is used for doing filesystem operations
-const fs = require('fs')
+import fs from 'fs'
 
 function writeHello() {
   const filename = 'hello.txt'

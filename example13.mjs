@@ -1,4 +1,4 @@
-const cows = require('cows')
+import cows from 'cows'
 
 // This is tricky, try to figure out what this is
 ;(async () => {

@@ -1,4 +1,4 @@
-const fs = require('fs').promises
+import fs from 'fs/promises'
 
 // Functions can be written in two ways, the first is using the function keyword
 

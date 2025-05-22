@@ -1,4 +1,4 @@
-const fs = require('fs').promises
+import fs from 'fs/promises'
 
 // Using the .then and .catch functions of promises was later replaced with
 // async functions, let's take a look at some async syntax

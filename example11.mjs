@@ -2,9 +2,9 @@
 // We're going to use an open source module called express to create a webserver
 // In your terminal run the command "npm install"
 
-const fs = require('fs').promises
+import fs from 'fs/promises'
 // express is a package that lets you create simple webservers
-const express = require('express')
+import express from 'express'
 
 // Let's make a new server, we do so by calling express, which is a function
 const server = express()

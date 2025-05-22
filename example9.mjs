@@ -1,4 +1,4 @@
-const fs = require('fs').promises
+import fs from 'fs/promises'
 
 // Up until now we've passed a function to handle the file operations
 // We do this because file system operations are "asynchronous" that means they

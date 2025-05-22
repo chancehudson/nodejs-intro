@@ -1,4 +1,4 @@
-const fs = require('fs')
+import fs from 'fs'
 
 function writeObject(obj) {
   // Writing strings to a file isn't very helpful. Let's try outputing an object
